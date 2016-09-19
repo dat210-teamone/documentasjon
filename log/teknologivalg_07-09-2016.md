@@ -53,7 +53,7 @@ Vi har i utgangspunktet valgt å lage en native Android-applikasjon. Delvis ford
     <tr>
         <td>Som "forelder"<br>
 Vil "starte appen for første gang"<br>
-Slik at "app lar deg legge til skoler"
+Slik at "man har mulighet til å finne skoler"
         </td>
         <td>Gitt "appen aldri åpnet før"<br>
 Når "app åpnes"<br>
@@ -62,8 +62,8 @@ Skal "liste lokale skoler + søkefelt"
     </tr>
     <tr>
         <td>Som "forelder"<br>
-Vil "lagre skole"<br>
-Slik at "app husker skole og viser den i liste i fremtiden"
+Vil "at appen skal huske skoler"<br>
+Slik at "at man ikke trenger å søke dem opp på nytt"
         </td>
         <td>Gitt "skoler er søkt opp"<br>
             Når "legg til trykkes"<br>
@@ -72,8 +72,8 @@ Slik at "app husker skole og viser den i liste i fremtiden"
     </tr>
     <tr>
         <td>Som "forelder"<br>
-Vil "finne neste fridag for skoler"<br>
-Slik at "liste med skoler vises samt deres neste fridag"
+Vil "vite når skolen er stengt neste gang"<br>
+Slik at "at det vises fort og oversiktelig"
         </td>
         <td>Gitt "skoler er lagret"<br>
             Når "app åpnes, eller bruker går til startskjerm"<br>
@@ -90,14 +90,14 @@ Slik at "liste med skoler vises samt deres neste fridag"
 Skal "kalendervisning av valgt skole vises"
         </td>
     </tr>
-    <tr>
+        <tr>
         <td>Som "forelder"<br>
-Vil "se kalendervisning over fridager"<br>
-Slik at "liste med skoler vises samt deres neste fridag"
+Vil "få beskjed når fridag nærmer seg"<br>
+Slik at "appen varsler om en valgt fridag"
         </td>
-        <td>Gitt "skoler er lagret"<br>
-        Når "bruker trykker på en av sine skoler"<br>
-Skal "kalendervisning av valgt skole vises"
+        <td>Gitt "bruker har valgt en skole"<br>
+        Når "bruker velger slå på varsel"<br>
+Skal "få varsel om fridag 2 dager før"
         </td>
     </tr>
 </table>
