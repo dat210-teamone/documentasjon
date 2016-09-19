@@ -57,7 +57,7 @@ Slik at "man har mulighet til å finne skoler"
         </td>
         <td>Gitt "appen aldri åpnet før"<br>
 Når "app åpnes"<br>
-Skal "liste lokale skoler + søkefelt"
+Skal "liste lokale skoler + søkefelt vises"
         </td>
     </tr>
     <tr>
@@ -78,6 +78,10 @@ Slik at "at det vises fort og oversiktelig"
         <td>Gitt "skoler er lagret"<br>
             Når "app åpnes, eller bruker går til startskjerm"<br>
             Skal "liste med skoler og fridager vises"
+            <hr>
+Gitt "skoler ikke er lagret"<br>
+        Når "appen startes"<br>
+Skal "liste med lokale skoler + søkefelt vises"
         </td>
     </tr>
     <tr>
@@ -88,6 +92,7 @@ Slik at "liste med skoler vises samt deres neste fridag"
         <td>Gitt "skoler er lagret"<br>
         Når "bruker trykker på en av sine skoler"<br>
 Skal "kalendervisning av valgt skole vises"
+
         </td>
     </tr>
         <tr>
