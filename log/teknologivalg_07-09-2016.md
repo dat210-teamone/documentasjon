@@ -87,7 +87,7 @@ Skal "liste med lokale skoler + søkefelt vises"
     <tr>
         <td>Som "forelder"<br>
 Vil "se kalendervisning over fridager"<br>
-Slik at "liste med skoler vises samt deres neste fridag"
+Slik at "en enkelt kan finne neste fridager i en kalender visning"
         </td>
         <td>Gitt "skoler er lagret"<br>
         Når "bruker trykker på en av sine skoler"<br>
